@@ -1,0 +1,34 @@
+{
+  "name": "testland",
+  "version": "1.0.0",
+  "description": "my first landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmaxer1408/testland.git"
+  },
+  "author": "Roman Osipov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmaxer1408/testland/issues"
+  },
+  "homepage": "https://github.com/rmaxer1408/testland#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp.spritesmith": "^6.10.0",
+    "rimraf": "^2.6.3"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "normalize.scss": "^0.1.0"
+  }
+}
